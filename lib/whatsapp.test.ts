@@ -30,7 +30,7 @@ I would like to place an order:
 *Total:* ₹780
 
 *DELIVERY*
-Please confirm delivery charges and the next steps for delivery.
+Price includes delivery across India. Please confirm the next steps for delivery.
 
 Thank you.`;
 
@@ -62,7 +62,7 @@ I would like to place an order:
 *Total:* ₹1,060
 
 *DELIVERY*
-Please confirm delivery charges and the next steps for delivery.
+Price includes delivery across India. Please confirm the next steps for delivery.
 
 Thank you.`;
 

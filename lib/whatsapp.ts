@@ -15,7 +15,7 @@ export function buildOrderMessage(lines: readonly ResolvedOrderLine[]): string {
     lines.map(buildOrderBlock).join(ORDER_SEPARATOR) +
     ORDER_SEPARATOR +
     `*ORDER SUMMARY*\n*Total items:* ${itemCount}\n*Total:* ${formatPrice(getOrderTotal(lines))}` +
-    "\n\n*DELIVERY*\nPlease confirm delivery charges and the next steps for delivery.\n\nThank you."
+    "\n\n*DELIVERY*\nPrice includes delivery across India. Please confirm the next steps for delivery.\n\nThank you."
   );
 }
 
